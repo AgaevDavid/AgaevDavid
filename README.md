@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AgaevDavid
 - 👀 I’m interested in gamedev
-- 🌱 I’m currently learning python/c++.
+- 🌱 I’m currently learning c++ & python.
 
 
 <!---
